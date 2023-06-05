@@ -9,7 +9,7 @@ This Github repository contains all of our code for the project, as well as the 
 ## data/ folder
 
 This folder contains all of the data that we would be using for analysis and/or further processing:
-- .csv files of our raw data, and processed data for topic modelling and colocation
+- .zip files of our .csv files of our raw data, and processed data for topic modelling and colocation (you would need to unzip the zip locally)
 - the results of our nltk colocations, both as .csv and also .txt
 - additional stopwords used in stopwords-en.txt 
 - word weightings for our topic modelling results in tm_word_weights.txt
