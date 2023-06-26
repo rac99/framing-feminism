@@ -4,7 +4,7 @@ By: Arthur, Ryan, and Thomas
 
 Research Question: _How has feminism been framed in US newspapers from 1980 to 2009?_
 
-This Github repository contains all of our code for the project, as well as the data generated for it. An explanation of the key parts of the repository are found below.
+This Github repository contains all of our code for the project, as well as the data generated for it. An explanation of the key parts of the repository are found below. A copy of our final rpeort is also viewable in the PDF.
 
 ## data/ folder
 
